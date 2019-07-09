@@ -1,1 +1,1 @@
-# Task1_for_Mindbox
+# Python task
